@@ -37,9 +37,9 @@ html_template = '''<!DOCTYPE html>
     <th>Text</th>
     <th>Reference</th>
     <th>Ground Truth</th>
-    <th>f768407035</th>
-    <th>f821282878</th>
-    <th>f831930970</th>
+    <th>Codec-SLM</th>
+    <th>DLMel-SLM</th>
+    <th>DLMel-SML (joint)</th>
   </tr>
   {rows}
 </table>
